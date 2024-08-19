@@ -1,2 +1,8 @@
-# code-kota-challenge
-This repo is to solve the cod kota data engineering challenge
+## How to execute the script 
+- run run_job.sh
+
+## Context 
+- using the faker library to generate the large csv 
+- using factorize function in pandas to anonmise the data
+
+
